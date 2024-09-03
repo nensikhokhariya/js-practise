@@ -20,4 +20,4 @@ let state;  // undefined Value
 
 // object 
 
-console.log(typeof 1);
+console.log(typeof null); //Object
