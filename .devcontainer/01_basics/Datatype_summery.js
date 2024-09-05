@@ -34,5 +34,6 @@ const myFunction = function(){
     console.log("hello");
 }
 
+ 
 
 console.log(typeof bigNumber );
